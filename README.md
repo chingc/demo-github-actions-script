@@ -2,7 +2,7 @@
 
 GitHub provides an action that lets you easily write javascript directly in your workflow.
 
-It is also an octokit/rest.js client.
+The action includes an object with the current workflow context and references to several other useful packages. It's also a pre-authenticated octokit/rest.js client.
 
 ## Overview
 
